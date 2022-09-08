@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yoriapridonal
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Web and Mobile Programming
